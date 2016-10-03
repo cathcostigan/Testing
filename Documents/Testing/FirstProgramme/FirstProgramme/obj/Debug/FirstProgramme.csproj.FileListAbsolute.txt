@@ -1,0 +1,6 @@
+C:\Users\ccostiga\Documents\Testing\FirstProgramme\FirstProgramme\bin\Debug\FirstProgramme.exe.config
+C:\Users\ccostiga\Documents\Testing\FirstProgramme\FirstProgramme\bin\Debug\FirstProgramme.exe
+C:\Users\ccostiga\Documents\Testing\FirstProgramme\FirstProgramme\bin\Debug\FirstProgramme.pdb
+C:\Users\ccostiga\Documents\Testing\FirstProgramme\FirstProgramme\obj\Debug\FirstProgramme.csprojResolveAssemblyReference.cache
+C:\Users\ccostiga\Documents\Testing\FirstProgramme\FirstProgramme\obj\Debug\FirstProgramme.exe
+C:\Users\ccostiga\Documents\Testing\FirstProgramme\FirstProgramme\obj\Debug\FirstProgramme.pdb
